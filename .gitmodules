@@ -1,0 +1,3 @@
+[submodule "hyper-commerce"]
+	path = hyper-commerce
+	url = https://github.com/Maysmayank/hyper-commerce.git
